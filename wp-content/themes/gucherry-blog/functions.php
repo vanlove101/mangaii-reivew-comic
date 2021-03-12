@@ -7,6 +7,8 @@
  * @package gucherry-blog
  */
 
+require 'inc/custom-comment.php';
+
 if ( ! function_exists( 'gucherry_blog_setup' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.

@@ -21,6 +21,7 @@
 	<?php wp_head(); ?>
 
 	<script async custom-element="amp-bind" src="https://cdn.ampproject.org/v0/amp-bind-0.1.js"></script>
+	<link rel="canonical" href="https://amp.dev/documentation/examples/interactivity-dynamic-content/show_more_button/index.html">
 </head>
 
 <body <?php body_class(); ?>>
